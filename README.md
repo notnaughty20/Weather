@@ -1,5 +1,1 @@
-# Weather
-# Networking
-# Networking
-# Networking
-# Networking
+Учебный проект --- погода/генератор шуток
